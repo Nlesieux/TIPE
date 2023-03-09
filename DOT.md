@@ -27,7 +27,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus.Création du github
 - Jeudi 9 février 2023 : Deuxième Séance de TIPE. Recherche de sujets. Piste : Jonglage (mecanique) - Théorie des jeux - Wave function collapse
--
+- Jeudi 2 février 2023 : Troisième Séance de TIPE. Appronfondissement de la thématique Wave function collapse. Recherche d'une problématique.
 -
 -
 -
