@@ -34,7 +34,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 6 avril   2023 : huitième  séance de TIPE. Etude de l'algorithme de shanon.
 - Jeudi 13 avril  2023 : neuvième  séance de TIPE. Confirmation de notre sujet. Sujet choisi : Génération de map aléatoire .
 - Jeudi 11 mai    2023 : onzième   séance de TIPE. Etude de la théorie de l'information.
--
+- Jeudi 25 mai    2023 : douzième  séance de TIPE. Petit exercice de présentation pour mettre au clair notre sujet. Création de la problématique, le titre, et les grandes parties.
+- Jeudi 1 juin    2023:  treizième séance de TIPE. Début de la programmation.
 -
 -
 
