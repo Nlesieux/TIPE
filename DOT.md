@@ -29,8 +29,11 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 9 février 2023 : Deuxième Séance de TIPE. Recherche de sujets. Piste : Jonglage (mecanique) - Théorie des jeux - Wave function collapse
 - Jeudi 2  mars   2023 : Troisième Séance de TIPE. Appronfondissement de la thématique Wave function collapse. Recherche d'une problématique.
 - Jeudi 9  mars   2023 : Quatrième séance de TIPE. Restriction sur deux sujets: Wave function collapse et le rouleau américain.
--
--
+- Jeudi 16 mars   2023 : Cinquième séance de TIPE. Accentuation sur le sujet Wave function collapse avec la thèse de Raphaël Bailly
+- Jeudi 23 mars   2023 : sixième   séance de TIPE. Recherche d'un aspect théorique accentué sur les mathématiques car manque de matière .
+- Jeudi 6 avril   2023 : huitième  séance de TIPE. Etude de l'algorithme de shanon.
+- Jeudi 13 avril  2023 : neuvième  séance de TIPE. Confirmation de notre sujet. Sujet choisi : Génération de map aléatoire .
+- Jeudi 11 mai    2023 : onzième   séance de TIPE. Etude de la théorie de l'information.
 -
 -
 -
