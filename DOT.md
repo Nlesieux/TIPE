@@ -36,6 +36,6 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 11 mai    2023 : onzième   séance de TIPE. Etude de la théorie de l'information.
 - Jeudi 25 mai    2023 : douzième  séance de TIPE. Petit exercice de présentation pour mettre au clair notre sujet. Création de la problématique, le titre, et les grandes parties.
 - Jeudi 1 juin    2023:  treizième séance de TIPE. Début de la programmation.
--
+- Jeudi 7 juin    2023 : quatorzième séance de TIPE. programmation.
 -
 
