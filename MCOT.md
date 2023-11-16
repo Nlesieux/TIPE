@@ -31,6 +31,16 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 ## Bibliographie commentée (max 650 mots)
 
+Le monde des jeux vidéos, devenus depuis quelques années un pilier de la recherche informatique,  où l’innovation est le mot d'ordre. Ainsi, à ce jour, ces innovations sont arrivés au point où le réalisme d'un jeux vidéo est stupéfiante, et même rivalise avec la conception du réel.  
+Désormais, vu que l’esthétique et les loi fondamentaux du monde ont pu être recopié,  la différence entre un monde réel et virtuel peut être flou. 
+Alors, l'humain serais en réalité capable de créer d'autre monde identique à la terre, avec comme seule limite les capacités technologiques. 
+Cependant, un monde numérique créé manuellement par l'humain pourrait être déterminer à l'avance et ne serait peut-être pas assez riche en découvertes. 
+Par conséquent, l’utilisation d’un programme qui permettrait d’avoir une conception d’un terrain tout en respectant une cohérence pour la création d’un monde réel comme la terre. 
+
+C’est pour cela que l’invention de l’algorithme WFC, plus précisément Wave fonction collapse. 
+Cette algorithmes est le moyen de créer un monde petit à petit, sous l’analogie d’une vague qui prend de l’ampleur en respectant la qualité prescription antérieurement. 
+Suite à cette technologie et à la combinaison d’autre comme l’intelligence artificielle, l’humain pourrait enfaîte créer des mondes avec des civilisation différentes
+
 
 
 
