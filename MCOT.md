@@ -33,6 +33,7 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 
+
 ## Problématique retenue (max 50 mots)
 Comment générer une forte densité d'espace de jeu, tout en conservant une logique et une certain qualité?
 
@@ -40,7 +41,7 @@ Comment générer une forte densité d'espace de jeu, tout en conservant une log
 
 1. Théorisé la création de terrain de jeux numérique  
 2. Implémentation de l'algorithme WFC
-3.
+3. Création d'une base probabiliste pour étudier la pertinence de notre terrain de jeux
 
 
 ## Références bibliographiques (2 à 10 références)
