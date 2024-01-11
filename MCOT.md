@@ -25,6 +25,8 @@ Mon thème rentre dans la catégorie des jeux, avec surtout le domaine du jeux v
 
 ## Bibliographie commentée (max 650 mots)
 
+La génération aléatoire est un sujet d'étude d'informatique qui affecte de nombreux domaines et de nombreux programmes, impactant toutes les activités numériques.
+Les jeux vidéos
 Le monde des jeux vidéos, devenus depuis quelques années un pilier de la recherche informatique,  où l’innovation est le mot d'ordre. Ainsi, à ce jour, ces innovations sont arrivés au point où le réalisme d'un jeux vidéo est stupéfiante, et même rivalise avec la conception du réel.  
 Désormais, vu que l’esthétique et les loi fondamentaux du monde ont pu être recopié,  la différence entre un monde réel et virtuel peut être flou. 
 Alors, l'humain serais en réalité capable de créer d'autre monde identique à la terre, avec comme seule limite les capacités technologiques. 
