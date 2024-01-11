@@ -26,16 +26,18 @@ Mon thème rentre dans la catégorie des jeux, avec surtout le domaine du jeux v
 ## Bibliographie commentée (max 650 mots)
 
 La génération aléatoire est un sujet d'étude d'informatique qui affecte de nombreux domaines et de nombreux programmes, impactant toutes les activités numériques.
-Les jeux vidéos
-Le monde des jeux vidéos, devenus depuis quelques années un pilier de la recherche informatique,  où l’innovation est le mot d'ordre. Ainsi, à ce jour, ces innovations sont arrivés au point où le réalisme d'un jeux vidéo est stupéfiante, et même rivalise avec la conception du réel.  
-Désormais, vu que l’esthétique et les loi fondamentaux du monde ont pu être recopié,  la différence entre un monde réel et virtuel peut être flou. 
-Alors, l'humain serais en réalité capable de créer d'autre monde identique à la terre, avec comme seule limite les capacités technologiques. 
-Cependant, un monde numérique créé manuellement par l'humain pourrait être déterminer à l'avance et ne serait peut-être pas assez riche en découvertes. 
-Par conséquent, l’utilisation d’un programme qui permettrait d’avoir une conception d’un terrain tout en respectant une cohérence pour la création d’un monde réel comme la terre. 
+Le domaine des jeux vidéos, activités prenant de plus en plus de place dans le numérique,fait l'object d'une attention particulière des développeurs et des cherchers. C'est dans ce dernier que se développe des techniques numériques innovante, dont particulièrement Wave fonction collapse.
 
-C’est pour cela que l’invention de l’algorithme WFC, plus précisément Wave fonction collapse. 
-Cette algorithmes est le moyen de créer un monde petit à petit, sous l’analogie d’une vague qui prend de l’ampleur en respectant la qualité prescription antérieurement. 
-Suite à cette technologie et à la combinaison d’autre comme l’intelligence artificielle, l’humain pourrait enfaîte créer des mondes avec des civilisation différentes
+On appelle Wave fonction collapse un algorithme de génération procédurales, destinées à la création de terrain de jeux aléatoires. Ce dernier va, comme le nom l'indique, agir comme une vague en traitant les données les plus faciles à analyser en premier, pour accumuler plus de données sur celles qui sont difficiles à traiter. Ainsi, on retrouve analogie de la vague car chaque données dépend de ces voisins, et un changement entraine une réaction en chaînes.
+
+Le terrain de jeux sur un jeux vidéo est son principal pillier. De plus, de nos jours, la tendance est vers un open world n'ayant point de limite. En effet, certaines licenses ont développé des techniques suffisante pour avoir une carte presque infini, comme à titre d'illustration No Man's Sky oû il faudrait 744 milliars d'années pour explorer l'entièreté du jeux vidéo. Modéliser cette technique de génération procédural permet donc de comprendre la prouesse technique et le potentiel de cette algorithme.
+
+Une approche théorique de l'algorithme peut être réalisé par l'étude de l'entropie de shanon, qui modélise la priorité des données pour les traitées. 
+
+Une autre appro
+
+    œ
+
 
 
 
