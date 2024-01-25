@@ -35,7 +35,10 @@ Le terrain de jeux sur un jeux vidéo est son principal pillier. De plus, de nos
 Une approche théorique de l'algorithme peut être réalisé par l'étude de l'entropie de shanon, qui modélise la priorité des données pour les traitées. [1][8]
 
 Du fait de la complexité de l'implémentation en 3 dimension, les premières utilisations de cette simulation numérique à été fait en 2 dimensions. Cette simplification permet un avantage, qui est la simplification du calcul d'entropie. En effet, en deux dimensions, les relations entre les images sont seulement en fonction de 4 composantes directionnel: haut, bas, droite et gauche. De plus, la cohérence physique n'a pas besoin d'être respectés. 
-Cette modélisation 2D à été réalisé avec des Tétrominos, qui ont l'atouts de pouvoir constituer facilement un pavage. 
+Cette modélisation 2D à été réalisé avec des Tétrominos, qui ont l'atouts de pouvoir constituer facilement un pavage. [3]
+
+Cependant, pour confirmer l'efficacité de notre réalisation, il est nécessaire de pouvoir déterminer des critères de qualités pour analyser et verifier la pertinence de notre génération procédurales. Ces critères peuvent être en fonction de l'accescibilités, la difficulté, les possibilités d'actions ou les possibilités de porgressions. [1] [4]
+
 
 
 
@@ -64,8 +67,6 @@ Comment générer un important espace de jeu, tout en conservant une logique et 
 2. Mxgmn (pogrammation github) : https://github.com/mxgmn/WaveFunctionCollapse [2]
 3. The coding train ( tutoriel d'implémentation WFC) https://www.youtube.com/watch?v=rI_y2GAlQFM [3]
 4. Michael Cook (automate pour générer un terrain de jeu sous forme de Cave) [4]
-5. Conférence de 2021 IEEE : livre intutilé "2021 IEEE International Conference on Image Processing Challenges" 
-2021 IEEE International Conference on Image Processing Challenges [5]
 6. Robert Heaton (https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/) [6]
 7. Mateusz Bugaj 
 https://medium.com/swlh/wave-function-collapse-tutorial-with-a-basic-exmaple-implementation-in-python-152d83d5cdb1 [7]
